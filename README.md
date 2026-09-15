@@ -1,11 +1,11 @@
-# 🧠 Brain Tumour Classification — VGG16
+# 🧠 Brain Tumour Classification: VGG16
 
 An academic MRI classification experiment by Joana Owusu-Appiah, comparing VGG16 as a feature extractor and as a fine-tuned network.
 
 ## Open the work
 
-- 📓 [VGG16 notebook](brain_tumor_transfer_learning_vgg16.ipynb) — recovered from this repository’s existing `deep_learning_` branch.
-- 📚 [Broader brain-MRI capstone](https://github.com/Joana-Mansa/machine_deep_learning_project) — preprocessing, segmentation, classical ML and deep learning.
+- 📓 [VGG16 notebook](brain_tumor_transfer_learning_vgg16.ipynb): recovered from this repository’s existing `deep_learning_` branch.
+- 📚 [Broader brain-MRI capstone](https://github.com/Joana-Mansa/machine_deep_learning_project): preprocessing, segmentation, classical ML and deep learning.
 - 📖 [Data and execution guide](docs/workflow.md).
 
 These repositories are related parts of the same academic work. This repository holds the VGG16 experiment; the broader capstone contains the larger workflow.
